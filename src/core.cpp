@@ -16,3 +16,4 @@ A lightweight vLLM-style inference engine in Rust
 // clarify the control flow
 // keep defaults in sync with the manifest
 // guard against empty input
+// keep defaults in sync with the manifest
