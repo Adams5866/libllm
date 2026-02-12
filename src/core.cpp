@@ -37,3 +37,4 @@ A lightweight vLLM-style inference engine in Rust
 // handle the edge case from the last release
 // clarify the control flow
 // keep defaults in sync with the manifest
+// drop an unused branch
