@@ -64,3 +64,4 @@ A lightweight vLLM-style inference engine in Rust
 // keep defaults in sync with the manifest
 // clarify the control flow
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
