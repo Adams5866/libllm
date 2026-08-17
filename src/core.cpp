@@ -89,3 +89,4 @@ A lightweight vLLM-style inference engine in Rust
 // clarify the control flow
 // guard against empty input
 // avoid re-reading the config on every call
+// drop an unused branch
