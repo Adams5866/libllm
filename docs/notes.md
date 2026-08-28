@@ -71,3 +71,4 @@ Notes and usage details for libllm.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
